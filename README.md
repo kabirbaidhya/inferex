@@ -2,6 +2,7 @@
 
   <h1>inferex</h1>
 
+  [![PyPI](https://img.shields.io/pypi/v/inferex.svg?style=flat-square)](https://pypi.python.org/pypi/inferex)
   [![PyPI](https://img.shields.io/pypi/l/inferex.svg?style=flat-square)](https://github.com/kabirbaidhya/inferex/blob/master/LICENSE)
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
