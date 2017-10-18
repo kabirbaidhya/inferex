@@ -8,8 +8,7 @@
 
 </div>
 
-Coming Soon.
-
+Coming Soon. Read this [issue](https://github.com/kabirbaidhya/boss/issues/59) to know what's this all about.
 ## Installation
 
 ```bash
